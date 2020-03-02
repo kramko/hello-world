@@ -1,0 +1,92 @@
+{
+    "items": [
+        {
+            "type": "likeur",
+            "categorie": "fruitlikeur",
+            "id": "aardb035",
+            "img": "img/producten/Aardbeienlikeur 0,35l.jpg",
+            "naam": "Aardbeienlikeur 0,35L",
+            "inh": 0.35,
+            "alc": 15,
+            "prijs": 10.9,
+            "omsch": "Aardbei Standaardomschrijving van een product, meer moeite doen we niet"
+        },
+        {
+            "type": "likeur",
+            "categorie": "fruitlikeur",
+            "id": "aardb05",
+            "img": "img/producten/Aardbeienlikeur 0,5l.jpg",
+            "naam": "Aardbeienlikeur 0,5L",
+            "inh": 0.5,
+            "alc": 14.9,
+            "prijs": 11.87,
+            "omsch": "Aardbei groot Standaardomschrijving van een product, meer moeite doen we niet"
+        },
+        {
+            "type": "likeur",
+            "categorie": "fruitlikeur",
+            "id": "blbes05",
+            "img": "img/producten/Blauwebessenlikeur 0,5l.jpg",
+            "naam": "Blauwebessenlikeur 0,5L",
+            "inh": 0.5,
+            "alc": 12.9,
+            "prijs": 11.25,
+            "omsch": "Blauwe bes Standaardomschrijving van een product, meer moeite doen we niet"
+        },
+        {
+            "type": "likeur",
+            "categorie": "fruitlikeur",
+            "id": "framb05",
+            "img": "img/producten/Frambozenlikeur 0,5l.jpg",
+            "naam": "Frambozenlikeur 0,5L",
+            "inh": 0.5,
+            "alc": 11.9,
+            "prijs": 17.25,
+            "omsch": "Framboos Standaardomschrijving van een product, meer moeite doen we niet"
+        },
+        {
+            "type": "vodka",
+            "categorie": "veldmenke",
+            "id": "vmzuur",
+            "img": "img/producten/Frambozenlikeur 0,5l.jpg",
+            "naam": "Veldmenke zure sjmoel",
+            "inh": 0.5,
+            "alc": 20,
+            "prijs": 13.25,
+            "omsch": "Veldmenke zuur Standaardomschrijving van een product, meer moeite doen we niet"
+        },
+        {
+            "type": "vodka",
+            "categorie": "veldmenke",
+            "id": "vmzoet",
+            "img": "img/producten/Frambozenlikeur 0,5l.jpg",
+            "naam": "Veldmenke zoetebek",
+            "inh": 0.5,
+            "alc": 20,
+            "prijs": 13.25,
+            "omsch": "Veldmenke zoet Standaardomschrijving van een product, meer moeite doen we niet"
+        },
+        {
+            "type": "whisky",
+            "categorie": "overig",
+            "id": "whisky2",
+            "img": "img/producten/Frambozenlikeur 0,5l.jpg",
+            "naam": "Whisky batch nr.2",
+            "inh": 0.7,
+            "alc": 40,
+            "prijs": 63.25,
+            "omsch": "Whisky batch 2 Standaardomschrijving van een product, meer moeite doen we niet"
+        },
+        {
+            "type": "whisky",
+            "categorie": "overig",
+            "id": "whisky3",
+            "img": "img/producten/Frambozenlikeur 0,5l.jpg",
+            "naam": "Whisky batch nr.3",
+            "inh": 0.7,
+            "alc": 40,
+            "prijs": 63.25,
+            "omsch": "Whisky batch 3 Standaardomschrijving van een product, meer moeite doen we niet"
+        }
+    ]
+}
